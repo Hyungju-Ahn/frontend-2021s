@@ -14,5 +14,6 @@
 }
 
 .settings__setting-column:last-child {
+  font-size: 17px;
   opacity: 0.5;
 }

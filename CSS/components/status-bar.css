@@ -4,6 +4,7 @@
   width: 100%;
   justify-content: center;
   padding: 5px 3px;
+  position: fixed;
 }
 .status-bar__column {
   width: 33%;
